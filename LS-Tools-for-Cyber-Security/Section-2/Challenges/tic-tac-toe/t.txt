@@ -1,0 +1,13 @@
+I am a bot who plays tic-tac-toe using advanced randomized algorithms. Can you beat me?
+
+Game [1/250]
+_ _ _ 
+_ _ _ 
+_ _ _ 
+Enter the block you want to mark as row,column. Eg: 0,2
+_ _ _ 
+_ o _ 
+_ x _ 
+Enter the block you want to mark as row,column. Eg: 0,2
+Illegal move !!
+You lost, no flag for you :( Please try again

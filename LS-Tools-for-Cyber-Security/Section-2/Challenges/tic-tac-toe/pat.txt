@@ -1,0 +1,8 @@
+# Game [1/250]
+_ _ _ 
+_ _ _ 
+_ _ _ 
+# Enter the block you want to mark as row,column. Eg: 0,2
+_ x _ 
+_ o _ 
+_ _ _
